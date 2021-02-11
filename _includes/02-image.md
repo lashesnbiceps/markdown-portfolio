@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of lashesnbiceps](https://s3.amazonaws.com/rms-rmfiles-production/client_photos/athlete_827063_profile.jpg)
